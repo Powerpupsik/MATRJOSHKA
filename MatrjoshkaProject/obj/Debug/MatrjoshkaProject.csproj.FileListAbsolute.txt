@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\MatrjoshkaProject\MatrjoshkaProject\bin\Debug\MatrjoshkaProject.exe.config
+C:\Users\opilane\projects\MatrjoshkaProject\MatrjoshkaProject\bin\Debug\MatrjoshkaProject.exe
+C:\Users\opilane\projects\MatrjoshkaProject\MatrjoshkaProject\bin\Debug\MatrjoshkaProject.pdb
+C:\Users\opilane\projects\MatrjoshkaProject\MatrjoshkaProject\obj\Debug\MatrjoshkaProject.csprojAssemblyReference.cache
+C:\Users\opilane\projects\MatrjoshkaProject\MatrjoshkaProject\obj\Debug\MatrjoshkaProject.exe
+C:\Users\opilane\projects\MatrjoshkaProject\MatrjoshkaProject\obj\Debug\MatrjoshkaProject.pdb
